@@ -1,0 +1,16 @@
+table, th, td{
+    border:2px solid black;
+}
+
+td{
+    height: 40px;
+    width: 70px;
+}
+
+td:nth-child(1){
+    color:red;
+}
+
+#holiday{
+    color:blue;
+}
